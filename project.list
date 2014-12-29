@@ -17,21 +17,18 @@ Maven EJB Plugin 	MEJB 	Jason van Zyl 	http://maven.apache.org/plugins/maven-ejb
 Maven Enforcer Plugin 	MENFORCER 	brianfox brianfox 	http://maven.apache.org/plugins/maven-enforcer-plugin/
 Maven GPG Plugin 	MGPG 	Jason van Zyl 	http://maven.apache.org/plugins/maven-gpg-plugin/
 Maven Help Plugin 	MPH 	Maven Developers List 	http://maven.apache.org/plugins/maven-help-plugin/
-Maven IDEA Plugin (RETIRED) 	MIDEA 	Jason van Zyl 	http://maven.apache.org/plugins/maven-idea-plugin/
 Maven Install Plugin 	MINSTALL 	Maven Developers List 	http://maven.apache.org/plugins/maven-install-plugin/
 Maven Invoker Plugin 	MINVOKER 	John Casey 	http://maven.apache.org/plugins/maven-invoker-plugin/
 Maven JAR Plugin 	MJAR 	Jason van Zyl 	http://maven.apache.org/plugins/maven-jar-plugin/
 Maven Jar Signer Plugin 	MJARSIGNER 	Benjamin Bentmann 	http://maven.apache.org/plugins/maven-jarsigner-plugin/
 Maven Javadoc Plugin 	MJAVADOC 	Maven Developers List 	http://maven.apache.org/plugins/maven-javadoc-plugin/
 Maven Linkcheck Plugin 	MLINKCHECK 	Maven Developers List 	http://maven.apache.org/plugins/maven-linkcheck-plugin/
-Maven One Plugin (RETIRED) 	MONE 	Brett Porter 	http://maven.apache.org/plugins/maven-one-plugin/
 Maven Patch Plugin 	MPATCH 	Brett Porter 	http://maven.apache.org/plugins/maven-patch-plugin
 Maven PDF Plugin 	MPDF 	Lukas Theussl 	http://maven.apache.org/plugins/maven-pdf-plugin
 Maven Plugin Tools 	MPLUGIN 	Maven Developers List 	http://maven.apache.org/plugin-tools/
 Maven PMD Plugin 	MPMD 	Maven Developers List 	http://maven.apache.org/plugins/maven-pmd-plugin/
 Maven Project Info Reports Plugin 	MPIR 	Maven Developers List 	http://maven.apache.org/plugins/maven-project-info-reports-plugin/
 Maven Rar Plugin 	MRAR 	Stéphane Nicoll 	http://maven.apache.org/plugins/maven-rar-plugin/
-Maven Reactor Plugin (RETIRED) 	MREACTOR 	Dan Fabulich 	http://maven.apache.org/plugins/maven-reactor-plugin
 Maven Release Plugin 	MRELEASE 	Maven Developers List 	http://maven.apache.org/plugins/maven-release-plugin/
 Maven Remote Resources Plugin 	MRRESOURCES 	Jason van Zyl 	http://maven.apache.org/plugins/maven-remote-resources-plugin/
 Maven Repository Plugin 	MREPOSITORY 	Brett Porter 	http://maven.apache.org/plugins/maven-repository-plugin/
