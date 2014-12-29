@@ -1,0 +1,73 @@
+Maven ACR Plugin 	MACR 	Maven Developers List 	http://maven.apache.org/plugins/maven-acr-plugin/
+Maven Ant Plugin 	MANT 	Jason van Zyl 	http://maven.apache.org/plugins/maven-ant-plugin/
+Maven Antrun Plugin 	MANTRUN 	Maven Developers List 	http://maven.apache.org/plugins/maven-antrun-plugin/
+Maven Assembly Plugin 	MASSEMBLY 	Maven Developers List 	http://maven.apache.org/plugins/maven-assembly-plugin/
+Maven Changelog Plugin 	MCHANGELOG 	Maven Developers List 	http://maven.apache.org/plugins/maven-changelog-plugin/
+Maven Changes Plugin 	MCHANGES 	Maven Developers List 	http://maven.apache.org/plugins/maven-changes-plugin/
+Maven Checkstyle Plugin 	MCHECKSTYLE 	Maven Developers List 	http://maven.apache.org/plugins/maven-checkstyle-plugin/
+Maven Clean Plugin 	MCLEAN 	Maven Developers List 	http://maven.apache.org/plugins/maven-clean-plugin/
+Maven Compiler Plugin 	MCOMPILER 	Maven Developers List 	http://maven.apache.org/plugins/maven-compiler-plugin/
+Maven Dependency Plugin 	MDEP 	Maven Developers List 	http://maven.apache.org/plugins/maven-dependency-plugin/
+Maven Deploy Plugin 	MDEPLOY 	Maven Developers List 	http://maven.apache.org/plugins/maven-deploy-plugin/
+Maven DOAP Plugin 	MDOAP 	Vincent Siveton 	http://maven.apache.org/plugins/maven-doap-plugin/
+Maven Documentation Checker Plugin 	MDOCCK 	Dennis Lundberg 	http://maven.apache.org/plugins/maven-docck-plugin/
+Maven Ear Plugin 	MEAR 	Stéphane Nicoll 	http://maven.apache.org/plugins/maven-ear-plugin/
+Maven Eclipse Plugin 	MECLIPSE 	Maven Developers List 	http://maven.apache.org/plugins/maven-eclipse-plugin/
+Maven EJB Plugin 	MEJB 	Jason van Zyl 	http://maven.apache.org/plugins/maven-ejb-plugin/
+Maven Enforcer Plugin 	MENFORCER 	brianfox brianfox 	http://maven.apache.org/plugins/maven-enforcer-plugin/
+Maven GPG Plugin 	MGPG 	Jason van Zyl 	http://maven.apache.org/plugins/maven-gpg-plugin/
+Maven Help Plugin 	MPH 	Maven Developers List 	http://maven.apache.org/plugins/maven-help-plugin/
+Maven IDEA Plugin (RETIRED) 	MIDEA 	Jason van Zyl 	http://maven.apache.org/plugins/maven-idea-plugin/
+Maven Install Plugin 	MINSTALL 	Maven Developers List 	http://maven.apache.org/plugins/maven-install-plugin/
+Maven Invoker Plugin 	MINVOKER 	John Casey 	http://maven.apache.org/plugins/maven-invoker-plugin/
+Maven JAR Plugin 	MJAR 	Jason van Zyl 	http://maven.apache.org/plugins/maven-jar-plugin/
+Maven Jar Signer Plugin 	MJARSIGNER 	Benjamin Bentmann 	http://maven.apache.org/plugins/maven-jarsigner-plugin/
+Maven Javadoc Plugin 	MJAVADOC 	Maven Developers List 	http://maven.apache.org/plugins/maven-javadoc-plugin/
+Maven Linkcheck Plugin 	MLINKCHECK 	Maven Developers List 	http://maven.apache.org/plugins/maven-linkcheck-plugin/
+Maven One Plugin (RETIRED) 	MONE 	Brett Porter 	http://maven.apache.org/plugins/maven-one-plugin/
+Maven Patch Plugin 	MPATCH 	Brett Porter 	http://maven.apache.org/plugins/maven-patch-plugin
+Maven PDF Plugin 	MPDF 	Lukas Theussl 	http://maven.apache.org/plugins/maven-pdf-plugin
+Maven Plugin Tools 	MPLUGIN 	Maven Developers List 	http://maven.apache.org/plugin-tools/
+Maven PMD Plugin 	MPMD 	Maven Developers List 	http://maven.apache.org/plugins/maven-pmd-plugin/
+Maven Project Info Reports Plugin 	MPIR 	Maven Developers List 	http://maven.apache.org/plugins/maven-project-info-reports-plugin/
+Maven Rar Plugin 	MRAR 	Stéphane Nicoll 	http://maven.apache.org/plugins/maven-rar-plugin/
+Maven Reactor Plugin (RETIRED) 	MREACTOR 	Dan Fabulich 	http://maven.apache.org/plugins/maven-reactor-plugin
+Maven Release Plugin 	MRELEASE 	Maven Developers List 	http://maven.apache.org/plugins/maven-release-plugin/
+Maven Remote Resources Plugin 	MRRESOURCES 	Jason van Zyl 	http://maven.apache.org/plugins/maven-remote-resources-plugin/
+Maven Repository Plugin 	MREPOSITORY 	Brett Porter 	http://maven.apache.org/plugins/maven-repository-plugin/
+Maven Resources Plugin 	MRESOURCES 	Maven Developers List 	http://maven.apache.org/plugins/maven-resources-plugin/
+Maven Shade Plugin 	MSHADE 	Maven Developers List 	http://maven.apache.org/plugins/maven-shade-plugin/
+Maven Site Plugin 	MSITE 	Maven Developers List 	http://maven.apache.org/plugins/maven-site-plugin/
+Maven Source Plugin 	MSOURCES 	Jason van Zyl 	http://maven.apache.org/plugins/maven-source-plugin/
+Maven Stage Plugin 	MSTAGE 	Wendy Smoak 	http://maven.apache.org/plugins/maven-stage-plugin
+Maven Toolchains Plugin 	MTOOLCHAINS 	Maven Developers List 	http://maven.apache.org/plugins/maven-toolchains-plugin
+Maven Verifier Plugin 	MVERIFIER 	Maven Developers List 	http://maven.apache.org/plugins/maven-verifier-plugin/
+Maven WAR Plugin 	MWAR 	Stéphane Nicoll 	http://maven.apache.org/plugins/maven-war-plugin/
+maven-scm-publish-plugin 	MSCMPUB 	Maven Developers List 	No URL
+
+Apache or Maven Parent POMs 	MPOM 	Maven Developers List 	http://maven.apache.org/
+Maven 	MNG 	Maven Developers List 	http://maven.apache.org/
+Maven Ant Tasks 	MANTTASKS 	Maven Developers List 	http://maven.apache.org/ant-tasks.html
+Maven Archetype 	ARCHETYPE 	Maven Developers List 	http://maven.apache.org/archetype/
+Maven Archetype Bundles 	MARCHETYPES 	Maven Developers List 	http://maven.apache.org/archetype/maven-archetype-bundles/
+Maven Doxia 	DOXIA 	Maven Developers List 	http://maven.apache.org/doxia
+Maven Doxia Sitetools 	DOXIASITETOOLS 	Vincent Siveton 	http://maven.apache.org/doxia/doxia-sitetools
+Maven Doxia Tools 	DOXIATOOLS 	Maven Developers List 	http://maven.apache.org/doxia/doxia-tools/index.html
+Maven Indexer 	MINDEXER 	Maven Developers List 	http://maven.apache.org/maven-indexer/
+Maven Integration for Eclipse 	MNGECLIPSE 	Igor Fedorenko 	http://m2eclipse.codehaus.org/
+Maven JXR 	JXR 	Brett Porter 	http://maven.apache.org/jxr/
+Maven Plugin Testing 	MPLUGINTESTING 	Vincent Siveton 	http://maven.apache.org/plugin-testing/
+Maven Sandbox 	MSANDBOX 	Jason van Zyl 	http://maven.apache.org/
+Maven SCM 	SCM 	Olivier Lamy 	http://maven.apache.org/scm/
+Maven Shared Components 	MSHARED 	Maven Developers List 	http://maven.apache.org/shared
+Maven Skins 	MSKINS 	Dennis Lundberg 	http://maven.apache.org/skins/
+Maven Surefire 	SUREFIRE 	Maven Developers List 	http://maven.apache.org/surefire/
+Maven Wagon 	WAGON 	Brett Porter 	http://maven.apache.org/wagon
+maven-proxy 	MAVENPROXY 	Ben Walding 	http://maven-proxy.codehaus.org/
+mevenide 	MEVENIDE 	Milos Kleint 	http://mevenide.codehaus.org
+MNG Test 	MNGTEST 	Jason van Zyl 	http://maven.apache.org
+
+Plexus 	PLX 	Jason van Zyl 	http://plexus.codehaus.org
+Plexus Components 	PLXCOMP 	Jason van Zyl 	http://plexus.codehaus.org/plexus-components/
+Plexus Utils
+
