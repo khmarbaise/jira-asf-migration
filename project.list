@@ -58,8 +58,3 @@ Maven Shared Components 	MSHARED 	Maven Developers List 	http://maven.apache.org
 Maven Skins 	MSKINS 	Dennis Lundberg 	http://maven.apache.org/skins/
 Maven Surefire 	SUREFIRE 	Maven Developers List 	http://maven.apache.org/surefire/
 Maven Wagon 	WAGON 	Brett Porter 	http://maven.apache.org/wagon
-
-Plexus 	PLX 	Jason van Zyl 	http://plexus.codehaus.org
-Plexus Components 	PLXCOMP 	Jason van Zyl 	http://plexus.codehaus.org/plexus-components/
-Plexus Utils
-
