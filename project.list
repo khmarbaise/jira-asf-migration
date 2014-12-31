@@ -40,7 +40,9 @@ Maven Stage Plugin 	MSTAGE 	Wendy Smoak 	http://maven.apache.org/plugins/maven-s
 Maven Toolchains Plugin 	MTOOLCHAINS 	Maven Developers List 	http://maven.apache.org/plugins/maven-toolchains-plugin
 Maven Verifier Plugin 	MVERIFIER 	Maven Developers List 	http://maven.apache.org/plugins/maven-verifier-plugin/
 Maven WAR Plugin 	MWAR 	Stéphane Nicoll 	http://maven.apache.org/plugins/maven-war-plugin/
-maven-scm-publish-plugin 	MSCMPUB 	Maven Developers List 	No URL
+Maven SCM Publish Plugin 	MSCMPUB 	Maven Developers List 	http://maven.apache.org/plugins/maven-scm-publish-plugin/
+
+Maven Project Web Site	 MNGSITE	Maven Developers List	http://maven.apache.org/
 
 Maven 	MNG 	Maven Developers List 	http://maven.apache.org/
 Maven Ant Tasks 	MANTTASKS 	Maven Developers List 	http://maven.apache.org/ant-tasks.html
