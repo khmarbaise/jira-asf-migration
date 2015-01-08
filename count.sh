@@ -1,2 +1,2 @@
 #!/bin/bash
-cat project.list | grep -v "^$" | wc -l
+grep -v -c "^$" project.list
